@@ -13,6 +13,7 @@
     ```cs
     using System;
     using UnityEngine;
+    using UnityEditor;
 
     namespace WeChat
     {
